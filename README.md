@@ -1,5 +1,11 @@
 # Lifeg Repository Template
 
+**Version:** 0.1.0
+**Status:** Active Development
+**Owner:** Lifeg platform
+**Last Updated:** YYYY-MM-DD
+---
+
 The official repository template for the Lifeg Platform.
 
 ## Overview
@@ -9,6 +15,13 @@ The official repository template for the Lifeg Platform.
 Its purpose is to ensure consistency, maintainability, and predictable project organization by providing a common foundation for documentation, repository layout, and GitHub configuration.
 
 This repository is intended to be used as a **GitHub Template Repository**.
+
+## Quick Start
+
+1. Create a new repository using this template.
+2. Update the repository metadata.
+3. Replase placeholder documentation.
+4. Commit your initial changes.
 
 ## Goals
 
@@ -81,6 +94,8 @@ This repository follows Semantic Versioning.
 
 Template changes are documented in `CHANGELOG.md`.
 
+Current template version: **v0.1.0**
+
 ## Contributing
 
 Before contributing, please read `CONTRIBUTING.md`.
@@ -98,4 +113,16 @@ See the `LICENSE` file for licensing information.
 - `lifeg-platform` — Platform portal
 - `lifeg-template` — Repository template
 
-Additional repositories will be added as the Lifeg Platform ecosystem evolves.
+## Repository Lifecycle
+
+Repositories created from this template adre expected to follow:
+
+1. Planning
+2. Documentation
+3. Arcitecture Review
+4. Implementation
+5. Testing
+6. Release
+7. Maintenance
+Additional repositories will become available as the Lifeg Platform ecosystem  grows.
+See the main Lifeg Platform repository for the complete repository map.
