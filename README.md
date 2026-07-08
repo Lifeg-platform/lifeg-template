@@ -124,5 +124,5 @@ Repositories created from this template adre expected to follow:
 5. Testing
 6. Release
 7. Maintenance
-Additional repositories will become available as the Lifeg Platform ecosystem  grows.
+Additional repositories will become available as the Lifeg Platform ecosystem grows.  
 See the main Lifeg Platform repository for the complete repository map.
