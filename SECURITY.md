@@ -37,9 +37,9 @@ Only actively maintained versions receive security updates.
 
 | Version | Supported |
 |----------|-----------|
-| 1.x | ✅ |
-| 0.x | ✅ Active Development |
-| < 0.x | ❌ |
+| 1.x | :white_check_mark: |
+| 0.x | :white_check_mark: Active Development |
+| < 0.x | :x: |
 
 ---
 
