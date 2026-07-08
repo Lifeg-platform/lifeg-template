@@ -1,9 +1,9 @@
 # Lifeg Repository Template
 
-**Version:** 0.1.0
-**Status:** Active Development
-**Owner:** Lifeg platform
-**Last Updated:** YYYY-MM-DD
+**Version:** 0.1.0  
+**Status:** Active Development  
+**Owner:** Lifeg platform  
+**Last Updated:** YYYY-MM-DD  
 ---
 
 The official repository template for the Lifeg Platform.
